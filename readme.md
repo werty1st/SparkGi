@@ -23,5 +23,5 @@ in a shell run:
 
 in an other shell run:
 ```bash
-sendemail -f norply@foo.io -t bar@foo.io -u "Testing SparkGi" -m "message" -s localhost:1025
+sendemail -f norply@foo.io -t bar@foo.io -u "Testing SparkGi" -m "message" -o message-charset=utf-8 -s localhost:1025
 ```
