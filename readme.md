@@ -17,7 +17,7 @@ TEST
 
 in a shell run:
 ```bash
-sparkgi.exe
+./sparkgi.exe
 ```
 
 
